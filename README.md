@@ -46,7 +46,7 @@ https://frieze.com/article/post-cyber-feminist-international-2017
 
 =======
 
-## Women and the Technology
+## Women and Technology
 
 Algorithms of Oppression (Safiya U. Noble)
 http://algorithmsofoppression.com/

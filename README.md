@@ -1,6 +1,7 @@
 
 This is an overview of books and publications that I found that were relevant
-for understanding Cyberfeminism.
+for understanding Cyberfeminism. This list will never be complete, so feel free
+me to add more links. 
 
 ## Cyberfeminism
 

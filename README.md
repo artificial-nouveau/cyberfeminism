@@ -1,7 +1,7 @@
 
 This is an overview of books and publications that I found that were relevant
 for understanding Cyberfeminism. This list will never be complete, so feel free
-me to add more links. 
+me to add more links.
 
 ## Cyberfeminism
 
@@ -41,7 +41,7 @@ https://frieze.com/article/post-cyber-feminist-international-2017
 
 
 
-## Women and the Technology
+## Women and Technology
 
 Algorithms of Oppression (Safiya U. Noble)
 http://algorithmsofoppression.com/
@@ -57,6 +57,9 @@ https://www.goodreads.com/book/show/96712.The_Dialectic_of_Sex
 
 NSFW: Sex, Humor, and Risk in Social Media (Sussana Paasonene, Kylie Jarrett and Ben Light)
 https://mitpress.mit.edu/books/nsfw
+
+Rethinking Futurism: How Fascism and Feminism sat under the banner of a single art movement (Katie Lynch)
+https://medium.com/art-y/rethinking-futurism-a0a18334aa71
 
 Who's Laughing Now?: Feminist Tactics in Social Media (Jenny Sundén and Susanna Paasonen)
 https://mitpress.mit.edu/books/whos-laughing-now

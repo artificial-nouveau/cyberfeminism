@@ -2,7 +2,7 @@
 This is an overview of books and publications that I found that were relevant
 for understanding Cyberfeminism.
 
-##Cyberfeminism
+## Cyberfeminism
 
 A Cyborg Manifesto: Science, Technology and Socialist-Feminism (Donna Haraway)
 Free pdf: http://www.faculty.umb.edu/gary_zabel/Courses/Art%20and%20Philosophy%20in%20SL%20and%20Other%20Virtual%20Worlds/Texts/cyborg_manifesto.pdf
@@ -14,7 +14,7 @@ https://www.artforum.com/print/201504/art-feminism-and-social-media-50736
 Zeros + Ones: Digital Women + the New Technoculture (Sadie Plant)
 https://www.goodreads.com/book/show/927882.Zeros_Ones
 
-##Post-cyberfeminism
+## Post-cyberfeminism
 
 What Is Post-Cyberfeminism? Here’s a Primer on the Latest Big Idea to Storm Contemporary Art (Caroline Elabor)
 Free article:
@@ -30,7 +30,7 @@ Post-Cyber Feminist International 2017, frieze, opinion column (Jonna Walsh)
 https://frieze.com/article/post-cyber-feminist-international-2017
 
 
-##Women and the Internet, Data and Algorithms
+## Women and the Internet, Data and Algorithms
 
 Algorithms of Oppression (Safiya U. Noble)
 http://algorithmsofoppression.com/

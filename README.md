@@ -3,6 +3,8 @@ This is an overview of books and publications that I found that were relevant
 for understanding Cyberfeminism. This list will never be complete, so feel free
 me to add more links. 
 
+=======
+
 ## Cyberfeminism
 
 A Cyborg Manifesto: Science, Technology and Socialist-Feminism (Donna Haraway)
@@ -24,6 +26,8 @@ Zeros + Ones: Digital Women + the New Technoculture (Sadie Plant)
 https://www.goodreads.com/book/show/927882.Zeros_Ones
 
 
+=======
+
 ## Post-cyberfeminism
 
 What Is Post-Cyberfeminism? Here’s a Primer on the Latest Big Idea to Storm Contemporary Art (Caroline Elabor)
@@ -40,6 +44,7 @@ Post-Cyber Feminist International 2017, frieze, opinion column (Jonna Walsh)
 https://frieze.com/article/post-cyber-feminist-international-2017
 
 
+=======
 
 ## Women and the Technology
 

@@ -132,7 +132,6 @@ https://medium.com/art-y/rethinking-futurism-a0a18334aa71
 Who's Laughing Now?: Feminist Tactics in Social Media (Jenny Sundén and Susanna Paasonen)\
 https://mitpress.mit.edu/books/whos-laughing-now
 
-
 Many of the references were found from this article:\
 Cyberfeminism: Rooted in breaking the binary & reclaiming space (Sarleen Kaur, 2020)
 https://www.legalbites.in/cyberfeminism/

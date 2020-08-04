@@ -63,5 +63,8 @@ https://www.goodreads.com/book/show/96712.The_Dialectic_of_Sex
 NSFW: Sex, Humor, and Risk in Social Media (Sussana Paasonene, Kylie Jarrett and Ben Light)
 https://mitpress.mit.edu/books/nsfw
 
+Rethinking Futurism: How Fascism and Feminism sat under the banner of a single art movement (Katie Lynch)
+https://medium.com/art-y/rethinking-futurism-a0a18334aa71
+
 Who's Laughing Now?: Feminist Tactics in Social Media (Jenny Sundén and Susanna Paasonen)
 https://mitpress.mit.edu/books/whos-laughing-now

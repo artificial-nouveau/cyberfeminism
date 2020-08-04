@@ -5,10 +5,10 @@ me to add more links.
 
 ## What is Cyberfeminism?
 
-Mia Consalvo defines cyberfeminism as (in "Cyberfeminism", Encyclopedia of New Media, SAGE Publications):\
+Mia Consalvo defines cyberfeminism as (in "Cyberfeminism", Encyclopedia of New Media, SAGE Publications):
 
 1. a label for women—especially young women who might not even want to align with feminism's history—not just to consume new technologies but to actively participate in their making\
-2. a critical engagement with new technologies and their entanglement with power structures and systemic oppression. \
+2. a critical engagement with new technologies and their entanglement with power structures and systemic oppression. 
 
 =======
 

@@ -124,7 +124,7 @@ https://www.dazeddigital.com/artsandculture/article/30679/1/in-defence-of-tumblr
 The Internet as a Tool for Black Feminist Activism: Lessons From an Online Antirape Protest (Laura Rapp, Deeanna M Button, Benjamin Fleury-Steiner, Ruth Fleury-Steiner, 2010)\
 https://journals.sagepub.com/doi/10.1177/1557085110371634
 
-4 Ways to Address Gender Bias in AI (Jost Feast)\
+4 Ways to Address Gender Bias in AI (Josh Feast)\
 Free article:\
 https://hbr.org/2019/11/4-ways-to-address-gender-bias-in-ai
 

@@ -31,7 +31,7 @@ Cyberfeminism (Mia Consalvo, 2002)\
 Free pdf:\
 https://study.sagepub.com/sites/default/files/Ch17_Cyberfeminism.pdf
 
-Cyberfeminism (Kira Hall)\
+Cyberfeminism (Kira Hall, 1996)\
 Free pdf:\
 https://www.colorado.edu/faculty/hall-kira/sites/default/files/attached-files/hall-1996-cyberfeminism.pdf
 
